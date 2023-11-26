@@ -6,12 +6,21 @@ Deep learning is a subpart of machine learning and artificial intelligence which
 2. Pandas
 3. Keras
 ### Steps to follow
-Step 1 : Importing all dependence 
-Step 2 : Import data and normalize it 
-Step 3 : view data 
-Step 4 : make a neural network and train it 
-Step 5 : check model accuracy and loss 
-Step 6 : prediction using model 
-Step 7 : saving the model 
-Step 8 : loading the saved model
-Step 9 : prediction using new model
+Step 1 : Importing all dependence  
+
+Step 2 : Import data and normalize it   
+
+Step 3 : view data   
+
+Step 4 : make a neural network and train it   
+
+Step 5 : check model accuracy and loss   
+
+Step 6 : prediction using model   
+
+Step 7 : saving the model   
+
+Step 8 : loading the saved model   
+
+Step 9 : prediction using new model   
+
